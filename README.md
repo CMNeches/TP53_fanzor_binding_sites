@@ -1,2 +1,1 @@
-# TP53_fanzor_binding_sites
-Isoform A is the focus of this study because it is the isoform of the gene that is encoded on the chromosome - if there is to be a gene therapy, it must bind to isoform a, unlike a protein therapy, which could bind to other isoforms because isoforms are expressed at different levels in different types of cells (i.e. cancerous or non-cancerous), but a gene-editing solution should be applicable in all cells.
+
